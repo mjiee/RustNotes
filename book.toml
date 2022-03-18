@@ -1,0 +1,16 @@
+[book]
+authors = ["mjiee"]
+language = "en"
+multilingual = false
+src = "src"
+title = "rust notes"
+description="rust学习笔记"
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://gitee.com/mjiee/rustnotes.git"
+git-repository-icon = "fa-github"
+edit-url-template = "https://gitee.com/mjiee/rustnotes/edit/master/{path}"
+site-url = "/rust/"
+cname="book.mjiee.top"
+input-404 = "assets/404.md"
