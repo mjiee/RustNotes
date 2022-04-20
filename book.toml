@@ -14,3 +14,7 @@ edit-url-template = "https://gitee.com/mjiee/rustnotes/edit/master/{path}"
 site-url = "/rust/"
 cname="book.mjiee.top"
 input-404 = "assets/404.md"
+
+[output.html.fold]
+enable = true
+level = 0
